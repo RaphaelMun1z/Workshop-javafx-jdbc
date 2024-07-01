@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+    <top>
+        <Label text="Cabeçalho" BorderPane.alignment="CENTER"/>
+    </top>
+    <center>
+        <Button text="Clique aqui!" BorderPane.alignment="CENTER"/>
+    </center>
+    <bottom>
+        <Label text="Rodapé" BorderPane.alignment="CENTER"/>
+    </bottom>
+</BorderPane>
